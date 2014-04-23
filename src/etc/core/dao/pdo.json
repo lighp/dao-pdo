@@ -1,0 +1,6 @@
+{
+    "factory": [
+        "\\core\\dao\\PDOFactory",
+        "getConnexion"
+    ]
+}
